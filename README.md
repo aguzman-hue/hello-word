@@ -14,3 +14,12 @@ Unas cosas de Mi:
 Esta es una frase que me gusta 
 > Sin importar la hora siempre queda algo del día para que sea un buen día
 
+Videos de los codigos en **C**
+
+<a href="https://youtu.be/aTSkjYYiEl0 " target="_blank">
+<img src="https://youtu.be/aTSkjYYiEl0 " alt="Led PA5 Boton PC13" width="240" height="180" border="10">
+</a>
+
+<a href="https://youtu.be/tjqCLvin4dI" target="_blank">
+<img src="https://youtu.be/tjqCLvin4dI" alt="Intercambio de valores" width="240" height="180" border="10">
+</a>

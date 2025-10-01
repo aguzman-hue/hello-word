@@ -12,7 +12,7 @@ Unas cosas de Mi:
 * Actualmente tengo un perro y un perico
 
 Esta es una frase que me gusta 
-> Sin importar la hora siempre queda algo del día para que sea un buen día
+> Sin importar la hora, siempre queda algo del día para que sea un buen día
 
 Videos de los codigos en **C**
 
